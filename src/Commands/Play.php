@@ -1,8 +1,8 @@
 <?php
 
-namespace Ianjohnson\Demo\Commands;
+namespace Tacoda\Demo\Commands;
 
-use Ianjohnson\Demo\Services\InputOutput;
+use Tacoda\Demo\Services\InputOutput;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;

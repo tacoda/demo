@@ -1,10 +1,10 @@
 {
-    "name": "ianjohnson/demo",
+    "name": "tacoda/demo",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ianjohnson\\Demo\\": "src/"
+            "Tacoda\\Demo\\": "src/"
         }
     },
     "minimum-stability": "stable",

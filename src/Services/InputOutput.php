@@ -1,6 +1,6 @@
 <?php
 
-namespace Ianjohnson\Demo\Services;
+namespace Tacoda\Demo\Services;
 
 use Symfony\Component\Console\Style\SymfonyStyle;
 
